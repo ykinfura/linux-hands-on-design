@@ -9,12 +9,12 @@ VirtualBox 上で Rocky Linux 9 を使用し、**Web + DB システム構成** �
 - [運用設計書](https://github.com/ykinfura/linux-hands-on-design/blob/main/docs/%E9%81%8B%E7%94%A8%E8%A8%AD%E8%A8%88%E6%9B%B8.pdf)
 
 - 構築手順書　
-[Step1 基盤構築手順書](https://github.com/ykinfura/linux-hands-on-design/blob/main/docs/Step1%20%E5%9F%BA%E7%9B%A4%E6%A7%8B%E7%AF%89%E6%89%8B%E9%A0%86%E6%9B%B8.pdf)
-[Step2 OS初期設定 （RockyLinux 9)](https://github.com/ykinfura/linux-hands-ondesign/blob/main/docs/Step2%20OS%E5%88%9D%E6%9C%9F%E8%A8%AD%E5%AE%9A%EF%BC%88RockyLinux%209%EF%BC%89.pdf)
-[Step3 Webサーバー構築 (Nginx)](https://github.com/ykinfura/linux-hands-on-design/blob/main/docs/Step3%20Web%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E6%A7%8B%E7%AF%89%20(Nginx).pdf)
-[Step4 DBサーバー構築 (MariaDB)](https://github.com/ykinfura/linux-hands-on-design/blob/main/docs/Step4%20DB%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E6%A7%8B%E7%AF%89%20(MariaDB).pdf)
-[Step5 Webアプリ構築（AppServer）](https://github.com/ykinfura/linux-hands-on-design/blob/main/docs/Step5%20Web%E3%82%A2%E3%83%97%E3%83%AA%E6%A7%8B%E7%AF%89%EF%BC%88AppServer%EF%BC%89.pdf)  
-[Step6 運用・監視・バックアップ・セキュリティ強化](https://github.com/ykinfura/linux-hands-on-design/blob/main/docs/Step6%20%E9%81%8B%E7%94%A8%E3%83%BB%E7%9B%A3%E8%A6%96%E3%83%BB%E3%83%90%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%BB%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%BC%B7%E5%8C%96.pdf)
+- [Step1 基盤構築手順書](https://github.com/ykinfura/linux-hands-on-design/blob/main/docs/Step1%20%E5%9F%BA%E7%9B%A4%E6%A7%8B%E7%AF%89%E6%89%8B%E9%A0%86%E6%9B%B8.pdf)
+- [Step2 OS初期設定 （RockyLinux 9)](https://github.com/ykinfura/linux-hands-ondesign/blob/main/docs/Step2%20OS%E5%88%9D%E6%9C%9F%E8%A8%AD%E5%AE%9A%EF%BC%88RockyLinux%209%EF%BC%89.pdf)
+- [Step3 Webサーバー構築 (Nginx)](https://github.com/ykinfura/linux-hands-on-design/blob/main/docs/Step3%20Web%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E6%A7%8B%E7%AF%89%20(Nginx).pdf)
+- [Step4 DBサーバー構築 (MariaDB)](https://github.com/ykinfura/linux-hands-on-design/blob/main/docs/Step4%20DB%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E6%A7%8B%E7%AF%89%20(MariaDB).pdf)
+- [Step5 Webアプリ構築（AppServer）](https://github.com/ykinfura/linux-hands-on-design/blob/main/docs/Step5%20Web%E3%82%A2%E3%83%97%E3%83%AA%E6%A7%8B%E7%AF%89%EF%BC%88AppServer%EF%BC%89.pdf)  
+- [Step6 運用・監視・バックアップ・セキュリティ強化](https://github.com/ykinfura/linux-hands-on-design/blob/main/docs/Step6%20%E9%81%8B%E7%94%A8%E3%83%BB%E7%9B%A3%E8%A6%96%E3%83%BB%E3%83%90%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%BB%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%BC%B7%E5%8C%96.pdf)
 
 - システム構成図（テキスト & スクリーンショット）
 
