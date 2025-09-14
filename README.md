@@ -6,8 +6,23 @@ VirtualBox 上で Rocky Linux 9 を使用し、**Web + DB システム構成** �
 ---
 
 ## 📂 含まれる成果物
-- 運用設計書（PPTX）
-- 構築手順書　Step1～6（PPTX）
+- 運用設計書 
+(./docs/運用設計書.pdf)
+
+- 構築手順書　
+Step1 基盤構築手順書              
+(./docs/Step1 基盤構築手順書.pdf)
+Step2 OS初期設定 （RockyLinux 9） 
+(./docs/Step2 OS初期設定.pdf)
+Step3 Webサーバー構築 (Nginx)     
+(./docs/Step3 Webサーバー構築 (Nginx).pdf)
+Step4 DBサーバー構築 (MariaDB)
+(./docs/Step4 DBサーバー構築 (MariaDB).pdf)
+Step5 Webアプリ構築（AppServer）
+(./docs/Step5 Webアプリ構築（AppServer）.pdf)
+Step6 運用・監視・バックアップ・セキュリティ強化
+(./docs/Step6 運用・監視・バックアップ・セキュリティ強化.pdf)
+
 - システム構成図（テキスト & スクリーンショット）
 
 ---
@@ -36,7 +51,7 @@ HostPC (Windows)
 ▼
 AppServer (Nginx/PHP) -- Host-Only -- DBServer (MariaDB)
 
-
+![構成図](https://github.com/ykinfura/linux-hands-on-design/blob/main/docs/構成図.png)
 
 ---
 
