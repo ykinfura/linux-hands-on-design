@@ -49,8 +49,8 @@ AppServer (Nginx/PHP) -- Host-Only -- DBServer (MariaDB)
 ---
 
 ## 📑 使用方法
-1. `構築手順書.pptx` を参照し VirtualBox で環境を構築  
-2. `運用設計書.pptx` を参照し、監視・バックアップ・運用設計を確認  
+1. `構築手順書 Step1～6.pdf` を参照し VirtualBox で環境を構築  
+3. `運用設計書.pdf` を参照し、監視・バックアップ・運用設計を確認  
 
 ---
 
